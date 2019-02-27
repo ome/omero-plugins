@@ -12,8 +12,8 @@
 	branch = develop
 [submodule "omero-test-infra"]
 	path = omero-test-infra
-	url = git://github.com/openmicroscopy/omero-test-infra
-	branch = master
+	url = git://github.com/sbesson/omero-test-infra
+	branch = unit_tests
 [submodule "omero-prometheus-tools"]
 	path = omero-prometheus-tools
 	url = git://github.com/ome/omero-prometheus-tools.git
