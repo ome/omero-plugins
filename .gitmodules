@@ -46,6 +46,10 @@
 	path = omero-weberror
 	url = git://github.com/openmicroscopy/omero-weberror
 	branch = master
+[submodule "omero-certificates"]
+	path = omero-certificates
+	url = git://github.com/ome/omero-certificates
+	branch = master
 [submodule "omero-cli-render"]
 	path = omero-cli-render
 	url = git://github.com/ome/omero-cli-render
