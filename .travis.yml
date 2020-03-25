@@ -24,8 +24,3 @@ env:
 
 script:
 - cd $REPO && ln -s ../omero-test-infra .omero && .omero/docker $STAGE
-
-matrix:
-  allow_failures:
-    - REPO=omero-prometheus-tools STAGE=lib
-    # FIXME: still on python 2
