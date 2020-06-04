@@ -24,4 +24,7 @@ env:
 - REPO=scripts STAGE=scripts
 
 script:
-- cd $REPO && ln -s ../omero-test-infra .omero && .omero/docker $STAGE
+# omero-test-infra only copies the subdirectory into the test container
+# so modify .git to ensure it contains the original git metadata
+- cd $REPO && rm .git && cp -a ../.git/modules/$REPO .git && rm .git/config && ln -s ../omero-test-infra .omero
+- .omero/docker $STAGE
