@@ -6,7 +6,7 @@ services:
 
 env:
 - REPO=minimal-omero-client STAGE=lib
-- REPO=omero-certificates STAGE=cli
+- REPO=omero-certificates STAGE=cli PLUGIN=certificates
 - REPO=omero-cli-duplicate STAGE=cli
 - REPO=omero-cli-render STAGE=cli
 - REPO=omero-figure STAGE=app
