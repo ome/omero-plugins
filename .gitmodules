@@ -1,76 +1,76 @@
 [submodule "omero-figure"]
 	path = omero-figure
-	url = git://github.com/ome/omero-figure
+	url = https://github.com/ome/omero-figure
 	branch = master
 [submodule "minimal-omero-client"]
 	path = minimal-omero-client
-	url = git://github.com/ome/minimal-omero-client
+	url = https://github.com/ome/minimal-omero-client
 	branch = master
 [submodule "scripts"]
 	path = scripts
-	url = git://github.com/ome/scripts
+	url = https://github.com/ome/scripts
 	branch = develop
 [submodule "omero-test-infra"]
 	path = omero-test-infra
-	url = git://github.com/openmicroscopy/omero-test-infra
+	url = https://github.com/openmicroscopy/omero-test-infra
 	branch = master
 [submodule "omero-prometheus-tools"]
 	path = omero-prometheus-tools
-	url = git://github.com/ome/omero-prometheus-tools.git
+	url = https://github.com/ome/omero-prometheus-tools.git
 	branch = master
 [submodule "omero-parade"]
 	path = omero-parade
-	url = git://github.com/ome/omero-parade.git
+	url = https://github.com/ome/omero-parade.git
 	branch = master
 [submodule "omero-mapr"]
 	path = omero-mapr
-	url = git://github.com/ome/omero-mapr.git
+	url = https://github.com/ome/omero-mapr.git
 	branch = master
 [submodule "omero-fpbioimage"]
 	path = omero-fpbioimage
-	url = git://github.com/ome/omero-fpbioimage
+	url = https://github.com/ome/omero-fpbioimage
 	branch = master
 [submodule "omero-iviewer"]
 	path = omero-iviewer
-	url = git://github.com/ome/omero-iviewer
+	url = https://github.com/ome/omero-iviewer
 	branch = master
 [submodule "omero-gallery"]
 	path = omero-gallery
-	url = git://github.com/ome/omero-gallery
+	url = https://github.com/ome/omero-gallery
 	branch = master
 [submodule "rOMERO-gateway"]
 	path = rOMERO-gateway
-	url = git://github.com/ome/rOMERO-gateway
+	url = https://github.com/ome/rOMERO-gateway
 	branch = master
 [submodule "omero-weberror"]
 	path = omero-weberror
-	url = git://github.com/openmicroscopy/omero-weberror
+	url = https://github.com/openmicroscopy/omero-weberror
 	branch = master
 [submodule "omero-cli-render"]
 	path = omero-cli-render
-	url = git://github.com/ome/omero-cli-render
+	url = https://github.com/ome/omero-cli-render
 	branch = master
 [submodule "omero-cli-duplicate"]
 	path = omero-cli-duplicate
-	url = git://github.com/ome/omero-cli-duplicate
+	url = https://github.com/ome/omero-cli-duplicate
 	branch = master
 [submodule "omero-metadata"]
 	path = omero-metadata
-	url = git://github.com/ome/omero-metadata
+	url = https://github.com/ome/omero-metadata
 	branch = master
 [submodule "omero-webtest"]
 	path = omero-webtest
-	url = git://github.com/openmicroscopy/omero-webtest
+	url = https://github.com/openmicroscopy/omero-webtest
 	branch = master
 [submodule "omero-upload"]
 	path = omero-upload
-	url = git://github.com/ome/omero-upload
+	url = https://github.com/ome/omero-upload
 [submodule "omero-virtual-microscope"]
 	path = omero-virtual-microscope
-	url = git://github.com/ome/omero-virtual-microscope
+	url = https://github.com/ome/omero-virtual-microscope
 [submodule "omero-rois"]
 	path = omero-rois
-	url = git://github.com/ome/omero-rois
+	url = https://github.com/ome/omero-rois
 [submodule "omero-signup"]
 	path = omero-signup
-	url = git://github.com/ome/omero-signup
+	url = https://github.com/ome/omero-signup
