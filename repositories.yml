@@ -3,3 +3,6 @@ base-branch: master
 submodules:
   scripts:
     base-branch: develop
+  omero-web-zarr:
+    base-branch: main
+
