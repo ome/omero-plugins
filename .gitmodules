@@ -77,3 +77,4 @@
 [submodule "omero-web-zarr"]
 	path = omero-web-zarr
 	url = https://github.com/ome/omero-web-zarr
+	branch = main
