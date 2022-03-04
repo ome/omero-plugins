@@ -74,3 +74,6 @@
 [submodule "omero-signup"]
 	path = omero-signup
 	url = https://github.com/ome/omero-signup
+[submodule "omero-web-zarr"]
+	path = omero-web-zarr
+	url = https://github.com/ome/omero-web-zarr
