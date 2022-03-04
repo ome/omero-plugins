@@ -2,11 +2,10 @@ OMERO plugins
 =============
 
 This collection of OMERO plugins allows us to maintain a single cron job
-which runs Travis daily for all the listed repositories (instead of
-maintaining separate cron jobs for each one). The results can be
-seen at https://travis-ci.org/ome/omero-plugins/builds. 
+which runs dependabot daily for all the listed repositories (instead of
+maintaining separate cron jobs for each one). 
 
-Running Travis daily for each repository allows us to check that they
+Running the bot daily for each repository allows us to check that they
 are passing with the latest dependencies, including the latest OMERO release,
 even when there are no changes and no PRs open for each repo itself.
 
