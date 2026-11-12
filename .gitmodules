@@ -84,3 +84,6 @@
 [submodule "figure"]
 	path = figure
 	url = https://github.com/ome/figure
+[submodule "omero-biofilefinder"]
+	path = omero-biofilefinder
+	url = https://github.com/ome/omero-biofilefinder.git
